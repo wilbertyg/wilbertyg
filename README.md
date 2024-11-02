@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="50"/> Hello! I'm Wilbert Yang</h1>
+I'm currently studying in Computer Science major, primarily focused on the Artificial Intelligence field. 
+
+![wilbertyg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilbertyg&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <h1>⋆༺𓆩⚔𓆪༻⋆</h1>
+</div>
 
 <!--
 **wilbertyg/wilbertyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
